@@ -1,4 +1,4 @@
-$(function() {
+$(document).ready(function() {
         var canvas = $('#background');
         var ctx;
         var colourList = ["#287227", "#529e00", "#58665b", "#e76b57", "#ec462a", "#ec760b", "#4da6c6", "#4da6c6", "#3a78a0", "#f6ecd8"];
